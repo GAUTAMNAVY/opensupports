@@ -188,3 +188,4 @@ workflows:
           version: << pipeline.parameters.version >>
           requires:
             - add_release_commit
+            
